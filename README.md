@@ -75,7 +75,7 @@ async function loadUsers() {
 ---
 
 ## 📁 project Files Structure
-
+```
 ├── index.html      # Main HTML structure
 ├── script.js       # Logic for fetching data and updating the DOM
 ├── style.css       # Compiled Tailwind CSS styles

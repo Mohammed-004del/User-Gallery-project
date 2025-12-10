@@ -70,6 +70,7 @@ async function loadUsers() {
         // Handle UI error state
     }
 }
+```
 
 ---
 

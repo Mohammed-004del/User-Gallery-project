@@ -7,7 +7,7 @@ A clean, interactive web application that fetches user profiles from an external
 ---
 
 ## 🌐 Live Demo  
-🔗 [View Demo](https://mohammed-004del.github.io/REPO-NAME-HERE/) 
+🔗 [View Demo](https://mohammed-004del.github.io/User-Gallery-project/) 
 
 ---
 

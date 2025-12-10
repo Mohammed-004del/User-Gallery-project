@@ -2,7 +2,7 @@
 
 A clean, interactive web application that fetches user profiles from an external API and displays them in an elegant grid layout. This project focuses on mastering **Asynchronous JavaScript** and **DOM Manipulation**.
 
-![Project Preview](User_Gallery_project_2.jpg)
+![Project Preview](User_Gallery_project_2.png)
 
 ---
 
@@ -39,7 +39,7 @@ A clean, interactive web application that fetches user profiles from an external
 
 | Start Screen | Loading State | Users Loaded |
 |:---:|:---:|:---:|
-| ![Start](User_Gallery_project.jpg) | ![Loading](User_Gallery_project_1.jpg) | ![Result](User_Gallery_project_2.jpg) |
+| ![Start](User_Gallery_project.png) | ![Loading](User_Gallery_project_1.png) | ![Result](User_Gallery_project_2.pbg) |
 
 ---
 

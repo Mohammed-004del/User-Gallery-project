@@ -39,7 +39,7 @@ A clean, interactive web application that fetches user profiles from an external
 
 | Start Screen | Loading State | Users Loaded |
 |:---:|:---:|:---:|
-| ![Start](User_Gallery_project.png) | ![Loading](User_Gallery_project_1.png) | ![Result](User_Gallery_project_2.pbg) |
+| ![Start](User_Gallery_project.png) | ![Loading](User_Gallery_project_1.png) | ![Result](User_Gallery_project_2.png) |
 
 ---
 
